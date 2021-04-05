@@ -29,7 +29,6 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/fod \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/graphics \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/health \
-    device/xiaomi/apollo-sepolicy/vendor/xiaomi/last_kmsg \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/light \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/motor \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/mlipay \
