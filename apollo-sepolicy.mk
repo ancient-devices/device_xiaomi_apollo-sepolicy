@@ -31,6 +31,7 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/health \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/ir \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/light \
+    device/xiaomi/apollo-sepolicy/vendor/xiaomi/logcat \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/motor \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/mlipay \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/parts \
