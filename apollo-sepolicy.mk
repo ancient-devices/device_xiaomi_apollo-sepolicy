@@ -18,7 +18,6 @@ BOARD_SEPOLICY_DIRS += \
 
 # Xiaomi Sepolicy
 BOARD_SEPOLICY_DIRS += \
-    device/xiaomi/apollo-sepolicy/vendor/xiaomi/adbd \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/audio \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/battery \
     device/xiaomi/apollo-sepolicy/vendor/xiaomi/block \

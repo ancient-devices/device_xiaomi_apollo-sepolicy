@@ -1,2 +1,0 @@
-get_prop(system_app, adbd_prop)
-get_prop(system_app, system_adbd_prop)
